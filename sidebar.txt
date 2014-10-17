@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vme:home|Door43 (vme)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vme|d43-vme repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vme/archive/master.zip|d43-vme.zip]]
+
+**Recent Changes**
+{{changes>ns = vme}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vme|Ethnologue data]]
+
